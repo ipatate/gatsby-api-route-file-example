@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby API ROUTE FILE SYSTEM`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Gatsby File System Route API`,
+    description: `Gatsby JS example of new "File System Route API"`,
+    author: `@PatrickFaramaz`,
   },
   plugins: [
     {
